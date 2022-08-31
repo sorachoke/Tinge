@@ -29,7 +29,7 @@
     "hypixel-api": "^1.2.0",
     "hypixeljs": "^1.4.0",
     "mojangjs": "^2.0.3",
-    "moment-timezone": "^0.5.28",
+    "moment-timezone": "^0.5.35",
     "ms": "^2.1.2",
     "node-emoji-clock": "^0.1.0",
     "node-fetch": "^2.6.0",
